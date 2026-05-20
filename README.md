@@ -24,6 +24,7 @@
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | 🧮 [Calculadora Web](https://github.com/LuisMacias26/calculadora-web) | Calculadora funcional | HTML, CSS, JS |
+| 📄 [Hoja de Vida](https://github.com/LuisMacias26/hoja-de-vida) | CV personal con múltiples secciones | HTML, CSS |
 
 ---
 
