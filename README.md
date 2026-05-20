@@ -25,6 +25,7 @@
 |---|---|---|
 | 🧮 [Calculadora Web](https://github.com/LuisMacias26/calculadora-web) | Calculadora funcional | HTML, CSS, JS |
 | 📄 [Hoja de Vida](https://github.com/LuisMacias26/hoja-de-vida) | CV personal con múltiples secciones | HTML, CSS |
+| 📝 [Formulario de Registro](https://github.com/LuisMacias26/formulario-registro) | Formulario con validación y base de datos | HTML, CSS, PHP, MySQL |
 
 ---
 
