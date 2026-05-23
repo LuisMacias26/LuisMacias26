@@ -29,6 +29,7 @@
 | ✅ [Lista de Tareas](https://github.com/LuisMacias26/lista-de-tareas) | To-Do App con CRUD completo | HTML, CSS, PHP, MySQL |
 | 🔐 [Sistema Login](https://github.com/LuisMacias26/sistema-login) | Sistema de login para usuarios | HTML, CSS, PHP, MySQL |
 | 📝 [Mini Blog](https://github.com/LuisMacias26/blog) | Sistema de blog con roles de admin y visitante | HTML, CSS, PHP, MySQL |
+| 🔌 [Mi API](https://github.com/LuisMacias26/mi-api) | Crear y consumir una API REST con PHP y JavaScript | HTML, JS, PHP, MySQL |
 ---
 
 ## 📊 Mis estadísticas
