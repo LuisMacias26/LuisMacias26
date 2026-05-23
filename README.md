@@ -28,7 +28,7 @@
 | 📝 [Formulario de Registro](https://github.com/LuisMacias26/formulario-registro) | Formulario con validación y base de datos | HTML, CSS, PHP, MySQL |
 | ✅ [Lista de Tareas](https://github.com/LuisMacias26/lista-de-tareas) | To-Do App con CRUD completo | HTML, CSS, PHP, MySQL |
 | 🔐 [Sistema Login](https://github.com/LuisMacias26/sistema-login) | Sistema de login para usuarios | HTML, CSS, PHP, MySQL |
-| 📝 [Mini Blog](https://github.com/LuisMacias26/mini-blog) | Sistema de blog con roles de admin y visitante | HTML, CSS, PHP, MySQL |
+| 📝 [Mini Blog](https://github.com/LuisMacias26/blog) | Sistema de blog con roles de admin y visitante | HTML, CSS, PHP, MySQL |
 ---
 
 ## 📊 Mis estadísticas
