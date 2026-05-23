@@ -30,6 +30,7 @@
 | 🔐 [Sistema Login](https://github.com/LuisMacias26/sistema-login) | Sistema de login para usuarios | HTML, CSS, PHP, MySQL |
 | 📝 [Mini Blog](https://github.com/LuisMacias26/blog) | Sistema de blog con roles de admin y visitante | HTML, CSS, PHP, MySQL |
 | 🔌 [Mi API](https://github.com/LuisMacias26/mi-api) | Crear y consumir una API REST con PHP y JavaScript | HTML, JS, PHP, MySQL |
+| 📋 [Sistema de Cotizaciones](https://github.com/LuisMacias26/cotizaciones) | Sistema de cotizaciones con exportación a Excel y PDF | HTML, CSS, JS |
 ---
 
 ## 📊 Mis estadísticas
