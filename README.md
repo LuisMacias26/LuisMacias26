@@ -31,6 +31,7 @@
 | 📝 [Mini Blog](https://github.com/LuisMacias26/blog) | Sistema de blog con roles de admin y visitante | HTML, CSS, PHP, MySQL |
 | 🔌 [Mi API](https://github.com/LuisMacias26/mi-api) | Crear y consumir una API REST con PHP y JavaScript | HTML, JS, PHP, MySQL |
 | 📋 [Sistema de Cotizaciones](https://github.com/LuisMacias26/cotizaciones) | Sistema de cotizaciones con exportación a Excel y PDF | HTML, CSS, JS |
+| 🍕 [Revisor de Órdenes de Compra — Barrio Pizza](https://github.com/LuisMacias26/barriopizza-revisor-ordenes) | Dashboard que detecta alertas de sobre/sub-pedido en compras y responde preguntas sobre los datos con IA | Python, Streamlit, Pandas, Gemini API |
 ---
 
 ## 📊 Mis estadísticas
